@@ -1,7 +1,6 @@
 This is a repository of project of deep graph explainer.
-The source code files and datasets for "DGX: Uncovering general behavior of deep graph models with model-level explanation" will be updated soon.
 
-## Code  
+## The source code files for "DGX: Uncovering general behavior of deep graph models with model-level explanation" .
 - `problems/`: The problem of evolutionary algorithms designed for model-level graph explanation
 - `soea_SEGA.py`: The proposed evolutionary algorithm `DGX` for model-level graph explaination. 
 - `main_multi.py`: Main script for model-level explaining experiment. 
