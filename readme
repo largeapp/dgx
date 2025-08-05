@@ -1,5 +1,11 @@
 This is a repository of project of deep graph explainer for "DGX: Uncovering general behavior of deep graph models with model-level explanation".
 
+Our research collection on artificial intelligence, including explainable artificial intelligence in brain image analysis, is available at [this link](https://github.com/largeapp/AI-for-Brain-Image-Analysis).
+
+### Publications
+See the following publications for examples of this code in use:
+* J. Hu, J. Liu, S. Dong, B. Liao, J. Liang and V. Honavar, "DGX: Uncovering General Behavior of Deep Graph Models with Model-level Explanation," IEEE Transactions on Computational Biology and Bioinformatics, July 2025, doi: 10.1109/TCBBIO.2025.3593917.
+
 ## Codes
 - `problems/`: The problem of evolutionary algorithms designed for model-level graph explanation
 - `soea_SEGA.py`: The proposed evolutionary algorithm `DGX` for model-level graph explaination. 
